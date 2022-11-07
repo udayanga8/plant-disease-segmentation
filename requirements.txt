@@ -1,0 +1,8 @@
+Flask~=2.1.1
+numpy~=1.23.3
+gunicorn
+flask_cors
+librosa
+keras~=2.10.0
+tensorflow~=2.10.0
+Pillow~=9.2.0
